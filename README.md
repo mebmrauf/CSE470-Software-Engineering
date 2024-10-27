@@ -20,5 +20,4 @@
 
 # Playlist
 
-### MSI
-https://youtube.com/playlist?list=PLr9he3UyIy3nisK-tpSQtl7GBBs7NvKwr&si=c0Neno8J-u0DE33d
+### MSI - https://youtube.com/playlist?list=PLr9he3UyIy3nisK-tpSQtl7GBBs7NvKwr&si=c0Neno8J-u0DE33d
