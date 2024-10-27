@@ -17,3 +17,8 @@
 6. Help students to build a system using proper and modern tools
 
 7. Explain different software building processes and methodology.
+
+# Playlist
+
+### MSI
+https://youtube.com/playlist?list=PLr9he3UyIy3nisK-tpSQtl7GBBs7NvKwr&si=c0Neno8J-u0DE33d
