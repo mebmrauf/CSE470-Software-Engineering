@@ -24,5 +24,11 @@
 
 # Topicwise Videos
 
-**Design Patterns With Python** 
-https://youtube.com/playlist?list=PLA1FTfKBAEX6GsXyPkkmNKpTRkMwNR0ik&si=M3WcTcwSpJ9LPwF4
+**Singleton Design Pattern (Python & Java)** 
+https://youtu.be/kn-l1Iq0Hrs?si=2k1UYe3fmXtwNQxO
+
+**Adapter Design Pattern (Python & Java)**
+https://youtu.be/eTm3zjPz3BU?si=tZXFENKFFX0tShCW
+
+**Observer Design Pattern (Python & Java)**
+https://youtu.be/ntHr98k6yIM?si=TqVLCb4Q0_BGENVt
