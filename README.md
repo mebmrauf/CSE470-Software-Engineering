@@ -26,11 +26,11 @@
 
 ## Design Pattern
 
-### Singleton  (Python & Java)
+### Singleton (Python & Java)
 https://youtu.be/kn-l1Iq0Hrs?si=2k1UYe3fmXtwNQxO
 
-### Adapter Design Pattern (Python & Java)
+### Adapter (Python & Java)
 https://youtu.be/eTm3zjPz3BU?si=tZXFENKFFX0tShCW
 
-### Observer Design Pattern (Python & Java)
+### Observer (Python & Java)
 https://youtu.be/ntHr98k6yIM?si=TqVLCb4Q0_BGENVt
